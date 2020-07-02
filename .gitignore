@@ -1,0 +1,20 @@
+#папки
+
+/vendor
+/bootstrap/cache
+/public/storage
+/storage/*.key
+/public/css
+/public/js/min
+
+#файлы
+.env
+*.backup
+.backup
+phpunit.xml
+
+
+#файлы codelobster
+*.clpprj
+*.csprj
+
